@@ -5,4 +5,5 @@
 
 This project takes a list of airports and will find any updates to procedures from the [IFP Information Gateway](https://www.faa.gov/air_traffic/flight_info/aeronav/procedures/).
 
-> [!NOTE] > **IFP.zsh** performs parallel downloads **IFP.sh** performs individual downloads
+> [!NOTE]
+> **IFP.zsh** performs parallel downloads **IFP.sh** performs individual downloads
