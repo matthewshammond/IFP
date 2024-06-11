@@ -7,4 +7,5 @@ This project takes a list of airports and will find any updates to procedures fr
 
 > [!NOTE]
 > IFP.zsh performs parallel downloads
+> [!NOTE]
 > IFP.sh performs individual downloads
